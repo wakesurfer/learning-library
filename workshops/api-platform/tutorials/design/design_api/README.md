@@ -39,6 +39,7 @@ Every time you click *Save*, Apiary generates a mock-server based on your design
   1. Under the *Tickets Collection* in the interactive documentation, click the *List All Tickets*
   2. The code example should be selected.  Make sure *Mock Server* is selected, and choose the Language of your choice.  
     _You may switch between the different languages to see examples of how to call the API._
+
     _You may need to click [Switch to Console] to be in sync with the instructions_
   3. After reviewing, click the *Try* button
   4. You will see options to set various parameters and headers, etc, but in this case just confirm that *Mock Server* is selected and click the *Call Resource* button.
